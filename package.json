@@ -1,0 +1,19 @@
+{
+  "name": "task-ajax-natalya-team_n11",
+  "version": "1.0.0",
+  "description": "Star Wars Database App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ita-react-marathon-sprint10/task-ajax-natalya-team_n11.git"
+  },
+  "author": "Rostyslav Kostenko and Olia Savka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ita-react-marathon-sprint10/task-ajax-natalya-team_n11/issues"
+  },
+  "homepage": "https://github.com/ita-react-marathon-sprint10/task-ajax-natalya-team_n11#readme"
+}
